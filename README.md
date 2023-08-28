@@ -1,1 +1,2 @@
-# dadosCovid
+# DadosCovid
+Este script Python utiliza as bibliotecas pandas, plotly e streamlit para visualizar os dados da COVID-19 no Brasil. Ele lê um conjunto de dados CSV do GitHub que contém informações sobre os casos de COVID-19 em diferentes estados do Brasil. O script permite ao usuário selecionar um estado e um tipo de informação (como ‘Novos óbitos’, ‘Novos casos’, ‘Óbitos por 100 mil habitantes’, ‘Casos por 100 mil habitantes’) para visualizar em um gráfico.
